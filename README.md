@@ -4,8 +4,11 @@
 This project performs Exploratory Data Analysis (EDA) on the Medical Cost Personal Dataset to understand the key factors affecting health insurance charges.
 
 ## Dataset Description
-The Medical Cost Personal Dataset contains information about individuals and their health insurance costs.  
-It includes demographic and health-related attributes that are commonly used to analyze how different factors influence medical expenses.
+This dataset contains information about individuals and their medical insurance charges.  
+It includes features such as age, sex, BMI, number of children, smoking habits, region,  
+and the medical costs billed by health insurance.
+
+The dataset can be used to explore how different factors affect medical insurance charges.
 
 ### Features:
 - age: Age of the primary beneficiary.
@@ -29,6 +32,11 @@ This dataset is used to perform Exploratory Data Analysis (EDA) to:
 - Matplotlib
 - Seaborn
 - Google Colab
+
+## How to Run
+1. Download the repository.
+2. Open `ML-Lab-3.ipynb` in Google Colab.
+3. Run all cells.
 
 ## How to Run
 1. Download the repository.
